@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Uploading images.jpeg…]()
+<img width="738" height="339" alt="images" src="https://github.com/user-attachments/assets/650fb2e5-fce1-44b9-a92d-89caa77050fe" />
+
 
 <!--
 **ksshcheglova-beep/ksshcheglova-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
